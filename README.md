@@ -1,5 +1,14 @@
 # Flipkart Clone Web App
 
+[ Visit Live ](flipkart-sale.onrender.com)
+
+**Note**
+
+- You Can Control Everything From This File public/product.json
+
+- Like Countdown Timer , Product Description, Upi id, banners , Product Name etc.
+
+
 ![screenshot](https://raw.githubusercontent.com/armaanmalik01/Flipkart-Clone/main/screenshots/1.jpg)
 
 ![screenshot](https://raw.githubusercontent.com/armaanmalik01/Flipkart-Clone/main/screenshots/2.jpg)
